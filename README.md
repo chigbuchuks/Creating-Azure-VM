@@ -75,18 +75,16 @@ HTTP (80) and HTTPS (443) if hosting a web project.
 
 Custom Port (e.g., 3000 for Node.js apps).
 
+5. Review and Create
+Click Review + create. Check the settings and click Create.
+
+Wait for deployment to complete.
 
 
 # ![Screenshot 2025-04-03 114059](https://github.com/user-attachments/assets/a65e375e-1ed3-4083-bc10-15f3b65715f7)
 
 
 
-5. Review and Create
-Click Review + create.
-
-Check the settings and click Create.
-
-Wait for deployment to complete.
 
 
 Step 6. Connect to the VM
@@ -100,7 +98,9 @@ Replace your-public-ip with the actual VM public IP.
 
 For Windows VM:
 
-Download the RDP file from the Azure portal and connect via Remote Desktop.
+Use Remote Desktop Connection (RDP).
+
+Enter VM IP and login credentials.
 
 
 
